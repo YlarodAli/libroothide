@@ -14,3 +14,5 @@ symredirect
 updatelink
 Makefile.theos
 symredirect-host
+cmake-*
+.idea
