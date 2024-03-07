@@ -12,3 +12,5 @@ rootfs
 symredirect
 updatelink
 Makefile.theos
+cmake-*
+.idea
